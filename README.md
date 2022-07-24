@@ -9,6 +9,10 @@ This app currently does not need installation.
 
 ![image](https://user-images.githubusercontent.com/100968401/180657339-bd8914d5-751d-46c8-a805-e7b60513e5b9.png)
 
+## Deployed
+Attached is the live link to this project through GitHub Pages
+https://enajera1.github.io/work-day-scheduler/
+
 
 ## Questions 
 If you have any questions over this project you may contact me directly at eriknajera013@gmail.com. 
